@@ -1,0 +1,1 @@
+# Rigidity-Via-Geometry-Embedding-Structural-Intelligence-within-3D-Printed-Vaulted-Structures
