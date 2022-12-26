@@ -18,4 +18,7 @@ Additive manufacturing/3d printing as a new method of construction has been used
 `This code has been tested on Rhinoceros on windows`
 
 ## Getting started
-- You can use the .gh file from scripts folder without any rhino input
+- You can use the .gh file from scripts folder without any Rhino input
+- 
+## Workflow
+- In the following diagrams, you can see the parameters to process your vault in each pase.
