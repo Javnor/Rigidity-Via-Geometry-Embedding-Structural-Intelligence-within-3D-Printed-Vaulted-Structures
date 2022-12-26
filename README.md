@@ -9,9 +9,13 @@ Additive manufacturing/3d printing as a new method of construction has been used
 
 - This code is developed as part of the project [Rigidity Via Geometry: Embedding Structural Intelligence within 3D Printed Vaulted Structures](https://blog.iaac.net/rigidity-via-geometry-embedding-structural-intelligence-within-3d-printed-vaulted-structures/).
 ![3_phases](docs/3_phases.png)
+
 ## Requirements
 * Rhinoceros 7 or later.
 * Grasshopper 3d plugin for Rhinoceros.
 * Pufferfish plugin for grasshopper.
 
 `This code has been tested on Rhinoceros on windows`
+
+## Getting started
+- You can use the .gh file from scripts folder without any rhino input
