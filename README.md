@@ -9,7 +9,10 @@ Additive manufacturing/3d printing as a new method of construction has been used
 
 - This code is developed as part of the project [Rigidity Via Geometry: Embedding Structural Intelligence within 3D Printed Vaulted Structures](https://blog.iaac.net/rigidity-via-geometry-embedding-structural-intelligence-within-3d-printed-vaulted-structures/).
 
-|![example](docs/3phases.pdf)|
+|               |                |               |                |
+| ------------- | -------------- | ------------- | -------------- |
+| ![example](docs/3 phases.pdf) | ![example](doc/examples/2.jpg) |  ![example](doc/examples/1.jpg) | ![example](doc/examples/3.jpg) |
+
 
 
 ## Requirements
