@@ -22,3 +22,15 @@ Additive manufacturing/3d printing as a new method of construction has been used
 
 ## Workflow
 - In the following diagrams, you can see the parameters to process your vault in each pase.
+## Phase 1 : Fundamental parameters as a setup for a vault
+-(L): wall Length
+-(T): wall base Thickness
+-(NL): Number of infill Layers
+-(DL): Distance between the Layers
+-(NP): Number of the Periods
+-(KST): Thickness of the Key-Stone
+-(DV): Deviation
+-(A): Length of ribs Advance 
+-(H1): 1st Height of the vault
+-(H2): 2nd Height of the vault
+![1st phase Vaults](docs/1st phase Vaults.png)
