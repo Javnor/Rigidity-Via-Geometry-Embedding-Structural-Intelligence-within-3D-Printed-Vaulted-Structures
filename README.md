@@ -9,7 +9,6 @@ Additive manufacturing/3d printing as a new method of construction has been used
 
 - This code is developed as part of the project [Rigidity Via Geometry: Embedding Structural Intelligence within 3D Printed Vaulted Structures](https://blog.iaac.net/rigidity-via-geometry-embedding-structural-intelligence-within-3d-printed-vaulted-structures/).
 
-[[3 phases.pdf](docs/3 phases.pdf)](https://github.com/Javnor/Rigidity-Via-Geometry-Embedding-Structural-Intelligence-within-3D-Printed-Vaulted-Structures/blob/main/docs/3%20phases.pdf)
 
 ## Requirements
 * Rhinoceros 7 or later.
