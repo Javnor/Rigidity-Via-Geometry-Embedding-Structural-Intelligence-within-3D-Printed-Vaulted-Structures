@@ -46,7 +46,9 @@ Additive manufacturing/3d printing as a new method of construction has been used
 - (A): Length of ribs Advance 
 - (H1r): 1st Height of the vault R
 - (H1l): 1st Height of the vault L
+- 
 `In This case, It is recommended to put equal values for H1 and H2`
+
 - (Sr): Span of the vault R
 - (Sl): Span of the vault L
 - (rSC): relative Size of the Connection
