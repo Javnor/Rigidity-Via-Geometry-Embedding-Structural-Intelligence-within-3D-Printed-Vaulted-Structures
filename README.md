@@ -49,4 +49,6 @@ Additive manufacturing/3d printing as a new method of construction has been used
 `In This case, It is recommended to put equal values for H1 and H2`
 - (Sr): Span of the vault R
 - (Sl): Span of the vault L
+- (rSC): relative Size of the Connection
+- (HCF): Height of the Connection Frame
 ![2nd phase Vaults](docs/2nd_phase_Vaults.png)
