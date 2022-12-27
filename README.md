@@ -33,4 +33,20 @@ Additive manufacturing/3d printing as a new method of construction has been used
 - (A): Length of ribs Advance 
 - (H1): 1st Height of the vault
 - (H2): 2nd Height of the vault
+- (S): Span of the vault
 ![1st phase Vaults](docs/1st_phase_Vaults.png)
+## Phase 2 : Fusion of vaults
+- (L): wall Length
+- (T): wall base Thickness
+- (NL): Number of infill Layers
+- (DL): Distance between the Layers
+- (NP): Number of the Periods
+- (KST): Thickness of the Key-Stone
+- (DV): Deviation
+- (A): Length of ribs Advance 
+- (H1r): 1st Height of the vault R
+- (H1l): 1st Height of the vault L
+`In This case, It is recommended to put equal values for H1 and H2`
+- (Sr): Span of the vault R
+- (Sl): Span of the vault L
+![2nd phase Vaults](docs/2nd_phase_Vaults.png)
