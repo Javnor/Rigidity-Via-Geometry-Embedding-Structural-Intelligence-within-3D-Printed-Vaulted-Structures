@@ -82,3 +82,19 @@ Class two: Separate spaces with equal heights
 ![2nd phase Vaults without connection corridor](docs/2nd_phase_Vaults_without_connection_corridor.png)
 
 ## Phase 3 : Connection of vaults
+
+- (NL): Number of infill Layers
+- (DL): Distance between the Layers
+- (H1): 1st Height of the vault
+- (H2): 2nd Height of the vault
+- (S): Span of the vault
+- (VE): extent of Vertical Extrusion
+- (NC): Number of Connections
+- (AP1rP): Auxilary Profile 1 relative Placement 
+- (AP2rP):Auxilary Profile 2 relative Placement
+- (GA): General Amplitude
+- (IVA): Innermost Vector Amplitude
+-(EOVA): Even Outermost Vector Amplitude
+-(OOVA): Odd Outermost Vector Amplitude
+
+![3rd Phaze Even NL-1.png](docs/3rd_Phaze_Even_NL-1.png)
