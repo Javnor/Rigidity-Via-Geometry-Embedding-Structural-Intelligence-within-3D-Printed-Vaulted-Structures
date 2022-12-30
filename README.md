@@ -83,6 +83,8 @@ Class two: Separate spaces with equal heights
 
 ## Phase 3 : Connection of vaults
 
+the bringing together of two or more vaulted geometries of same or different parametric configurations, by aligning their arches and filling the negative space to make a single form.
+
 - (NL): Number of infill Layers
 - (DL): Distance between the Layers
 - (H1): 1st Height of the vault
