@@ -69,7 +69,7 @@ Class two: Separate spaces with equal heights
 - (A): Length of ribs Advance 
 - (H1): 1st Height of the vault
 - (H2): 2nd Height of the vault
-`In This case, It is recommended to put equal values for H1 and H2'
+`In This case, It is recommended to put equal values for H1 and H2`
 - (S): Span of the vault
 - (rMP): Relative parameter of the mirror plane
 - (α): Angle of Rotation
