@@ -94,7 +94,7 @@ Class two: Separate spaces with equal heights
 - (AP2rP):Auxilary Profile 2 relative Placement
 - (GA): General Amplitude
 - (IVA): Innermost Vector Amplitude
--(EOVA): Even Outermost Vector Amplitude
--(OOVA): Odd Outermost Vector Amplitude
+- (EOVA): Even Outermost Vector Amplitude
+- (OOVA): Odd Outermost Vector Amplitude
 
 ![3rd Phaze Even NL-1.png](docs/3rd_Phaze_Even_NL-1.png)
