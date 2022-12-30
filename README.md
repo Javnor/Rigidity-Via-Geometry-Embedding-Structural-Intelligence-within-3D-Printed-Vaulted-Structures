@@ -36,6 +36,9 @@ Additive manufacturing/3d printing as a new method of construction has been used
 - (S): Span of the vault
 ![1st phase Vaults](docs/1st_phase_Vaults.png)
 ## Phase 2 : Fusion of vaults
+
+the merging of vaulted geometries of same or different parametric configurations, by pushing their sides against each other, to create a single unified geometry.
+
 Class one: Interconnected spaces with inequal heights
 
 - (L): wall Length
@@ -77,3 +80,5 @@ Class two: Separate spaces with equal heights
 - (TBTCWS) Top-Bottom Tween Curve Width Scaler
 
 ![2nd phase Vaults without connection corridor](docs/2nd_phase_Vaults_without_connection_corridor.png)
+
+## Phase 3 : Connection of vaults
