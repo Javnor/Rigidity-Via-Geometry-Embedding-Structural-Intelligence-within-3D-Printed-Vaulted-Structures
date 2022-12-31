@@ -81,6 +81,8 @@ Class two: Separate spaces with equal heights
 
 ![2nd phase Vaults without connection corridor](docs/2nd_phase_Vaults_without_connection_corridor.png)
 
+- Grasshopper definition
+- 
 ## Phase 3 : Connection of vaults
 
 the bringing together of two or more vaulted geometries of same or different parametric configurations, by aligning their arches and filling the negative space to make a single form.
