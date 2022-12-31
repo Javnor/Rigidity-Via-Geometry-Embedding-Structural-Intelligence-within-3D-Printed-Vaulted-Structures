@@ -100,3 +100,14 @@ the bringing together of two or more vaulted geometries of same or different par
 - (OOVA): Odd Outermost Vector Amplitude
 
 ![3rd Phaze Even NL-1.png](docs/3rd_Phaze_Even_NL-1.png)
+
+## References
+- [Rigidity Via Geometry: Embedding Structural Intelligence within 3D Printed Vaulted Structures
+](https://blog.iaac.net/rigidity-via-geometry-embedding-structural-intelligence-within-3d-printed-vaulted-structures/)
+
+## Credits
+__Rigidity Via Geometry: Embedding Structural Intelligence within 3D Printed Vaulted Structures__ is a project of IaaC, Institute for Advanced Architecture of Catalonia, Developed at __3D Printing Architecture (3DPA)__ in __2022-2023__ during __Research Phase__ by:
+
+Student: __Javad Norouzi, Kevin Mwangi Njoroge, Milad Mehdizadeh__
+
+Faculty: __Ashkan Foroughi__
